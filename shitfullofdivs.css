@@ -1,0 +1,28 @@
+header{
+	width: 100%;
+	float: left;
+}
+header h1{
+	display: inline;
+}
+nav{
+	float: right;
+}
+section{
+	float: left;
+}
+article{
+
+}
+figure{
+
+}
+figcaption{
+
+}
+aside{
+	float: right;
+}
+footer{
+
+}
