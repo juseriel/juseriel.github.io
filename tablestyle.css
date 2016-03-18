@@ -1,3 +1,7 @@
-table, th, td{
-	border-style: 1px solid black;
+th, td{
+	border: 1px solid black;
+	border-collapse: separate;
+}
+th{
+	background-color: #bbf;
 }
